@@ -1,0 +1,13 @@
+bc4bffdd3b14b2fcaad6105fb2efa6c6b4585df15bb6d7d55867b7e0bfd28d87  ./.github/workflows/android-apk.yml
+f69b6fe9ba6b84f2f8f3656df88beccad5d23ab6d17f5fdc0c09cdcab1359615  ./CHANGELOG.md
+2e37700ef469314b9c60a885ea3864a44fe5107dc1a71de7e0c3e6913f161836  ./README.md
+2511b14aa26a8f18aacc7f690435eeb3d3f2e66bc13f24d993b9969f5c4de545  ./SHA256SUMS.txt
+83c3ed3f3df2af7600c0cf7c1e36f9291f554b2a06dcc0992762ca10fd5ebaf2  ./app/build.gradle.kts
+f95557a37b196e79f7b56c7136a93b7bb1f89b0c926b9a7c9e900705d688fd83  ./app/src/main/AndroidManifest.xml
+888cb72739c5373edd9ba8a463befce582c6b1fd7589ae48d2a3ccbdf82a8739  ./app/src/main/java/ru/om/cablecalc/MainActivity.kt
+1dc89466ad39ff63a15baefb2f4647cfe549174caf3c59be71488f99505a5e57  ./app/src/main/res/values/styles.xml
+d8d04f97783d732b7fa52fc962e07dcb06761f60d31f11bd0f8605f8c69a73fe  ./build-apk.sh
+61cd8e15a65a3ded440013250aa5c2bbc875158d0cf2db2e8fc5185ec3c69105  ./build.gradle.kts
+d5f372c6d46ad7c8d33f714bfae564eb5e1d73a159c495df9bc782b33e3567c2  ./gradle.properties
+a6ed56b973dbfd489e460b33a6e5ef06635b0a01b22ce2cc6229fa00794354d1  ./settings.gradle.kts
+727f140ba1071b4d171e7dbac27e09e3eebbf52ab49e2cced321c29509c552ca  ./verification/check_calculation.py
