@@ -27,5 +27,8 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: web
+      # GitHub's artifact metadata can lag briefly after upload finalization.
+      - name: Wait for Pages artifact indexing
+        run: sleep 15
       - id: deployment
         uses: actions/deploy-pages@v4
